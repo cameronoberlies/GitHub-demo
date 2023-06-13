@@ -14,6 +14,7 @@
 		42884D2D2A38E045001EFCA7 /* GitHub_demoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42884D2C2A38E045001EFCA7 /* GitHub_demoTests.swift */; };
 		42884D372A38E045001EFCA7 /* GitHub_demoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42884D362A38E045001EFCA7 /* GitHub_demoUITests.swift */; };
 		42884D392A38E045001EFCA7 /* GitHub_demoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42884D382A38E045001EFCA7 /* GitHub_demoUITestsLaunchTests.swift */; };
+		42884D462A38E2D7001EFCA7 /* Second_view.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42884D452A38E2D7001EFCA7 /* Second_view.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		42884D322A38E045001EFCA7 /* GitHub demoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "GitHub demoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		42884D362A38E045001EFCA7 /* GitHub_demoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHub_demoUITests.swift; sourceTree = "<group>"; };
 		42884D382A38E045001EFCA7 /* GitHub_demoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHub_demoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		42884D452A38E2D7001EFCA7 /* Second_view.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Second_view.swift; path = ../../../Downloads/Second_view.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				42884D1A2A38E043001EFCA7 /* GitHub_demoApp.swift */,
 				42884D1C2A38E043001EFCA7 /* ContentView.swift */,
+				42884D452A38E2D7001EFCA7 /* Second_view.swift */,
 				42884D1E2A38E045001EFCA7 /* Assets.xcassets */,
 				42884D202A38E045001EFCA7 /* GitHub_demo.entitlements */,
 				42884D212A38E045001EFCA7 /* Preview Content */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				42884D1D2A38E043001EFCA7 /* ContentView.swift in Sources */,
+				42884D462A38E2D7001EFCA7 /* Second_view.swift in Sources */,
 				42884D1B2A38E043001EFCA7 /* GitHub_demoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
